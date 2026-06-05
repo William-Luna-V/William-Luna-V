@@ -40,7 +40,7 @@ With a background in backend and web development, I enjoy understanding how soft
 
 	Bachelor's Degree in Mathematics (In Progress)
 
->		Universidad Abierta y a Distancia de México (UnADM)
+>    Universidad Abierta y a Distancia de México (UnADM)
 
 ## Contact
 
