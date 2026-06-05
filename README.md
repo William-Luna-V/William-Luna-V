@@ -1,23 +1,49 @@
-### Hi there 👋 I´m William Luna, from México, I´m 23 years.
-<p>I made a course of Web Development<br/>
-I´m currently improving my skills in Web Development while working and I´m a math enthusiast<br/>
-I´m a spiritual person :alien: and I like to live life full of meaning and purpose :sparkles::crescent_moon:<br/>
-I like to explore and climb hills :sunrise_over_mountains::sunny:</p>
-<p>:book: I have experience with MERN stack and I'm always open to learn new technologies</p>
-<p>:email: My email adress is: <b>lunapsygeek@gmail.com</b></p>
+# Hi, I'm William Luna 👋
 
+### **Software Development Engineer in Test (SDET)**
+With a background in backend and web development, I enjoy understanding how software systems work beneath the surface and designing automated solutions that validate behavior across UI, API, and database layers.
 
-<!--
-**LunaPsyWill/LunaPsyWill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Test Automation**
+*   **Quality Engineering**
+*   **API Testing**
+*   **Database Validation**
+*   **End-to-End Testing**
+*   **CI/CD**
+
+---
+
+## Featured Project
+
+### **Multi-Layer Test Automation Framework**
+> A full-stack QA automation framework built with Python, Pytest, and Playwright.
+
+#### **Key Capabilities:**
+*   **UI Automation** & **API Testing**
+*   **Database Validation**
+*   **Data-Driven Testing**
+*   **Layered Architecture**
+*   **GitHub Actions CI/CD**
+
+---
+
+## Technical Stack
+
+`Python` • `Pytest` • `Playwright` • `SQL` • `REST APIs` • `GitHub Actions` • `Allure`
+
+---
+
+## 🎓 Education
+
+>	Bachelor's Degree in Mathematics (In Progress)
+
+		Universidad Abierta y a Distancia de México (UnADM)
+
+## Contact
+
+* 📧 Email: `[lunapsygeek@gmail.com](mailto:lunapsygeek@gmail.com)`
+
+* 📍 Location: Zacatecas, Mexico
