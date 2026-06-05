@@ -44,6 +44,6 @@ With a background in backend and web development, I enjoy understanding how soft
 
 ## Contact
 
-* 📧 Email: [![Send email](https://shields.io)](mailto:lunapsygeek@gmail.com)
+* 📧 Email: [![Send email](https://img.shields.io/badge/Send%20email-0C5678)](mailto:lunapsygeek@gmail.com)
 
 * 📍 Location: Zacatecas, México.
