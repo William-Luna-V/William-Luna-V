@@ -44,6 +44,6 @@ With a background in backend and web development, I enjoy understanding how soft
 
 ## Contact
 
-* 📧 Email: `[lunapsygeek@gmail.com](mailto:lunapsygeek@gmail.com)`
+* 📧 Email: `lunapsygeek@gmail.com`(mailto:lunapsygeek@gmail.com)
 
 * 📍 Location: Zacatecas, Mexico
