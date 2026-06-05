@@ -38,12 +38,12 @@ With a background in backend and web development, I enjoy understanding how soft
 
 ## 🎓 Education
 
-	Bachelor's Degree in Mathematics (In Progress)
+Bachelor's Degree in Mathematics (In Progress)
 
->    Universidad Abierta y a Distancia de México (UnADM)
+Universidad Abierta y a Distancia de México (UnADM)
 
 ## Contact
 
-* 📧 Email: [![Send email](https://img.shields.io/badge/Send%20email-0C5678)](mailto:lunapsygeek@gmail.com)
+* 📧 Email: [![Send email](https://img.shields.io/badge/Send%20email-0C5678)](mailto:william.luna.qa@gmail.com)
 
-* 📍 Location: Zacatecas, México.
+* 📍 Location: Zacatecas, Mexico.
